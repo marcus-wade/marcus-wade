@@ -1,41 +1,61 @@
 # Hi, I'm Marcus 👋
 
-### 🛠️ Builder · 🚀 CEO @genesis1tech · 🎧 International DJ &amp; Producer
+📍 Charlotte, NC · 🛠️ Builder &amp; CEO [@genesis1tech](https://github.com/genesis1tech) · 🎧 International DJ &amp; Producer
 
-I build software and I build sets. By day I'm CEO of **Genesis 1 Technologies**,
-shipping developer and creator tools. By night I'm **DJ Marcus Wade**, producing
-and playing inspirational house music around the world.
+Building developer and creator tools by day. Spinning inspirational house music around the world by night as **DJ Marcus Wade**.
 
-📍 Charlotte, NC
-
----
-
-## 🏢 [Genesis 1 Technologies](https://genesis1.tech)
-
-Building tools for developers and creators.
+## Start Here
 
 - 🎙️ **[ShhhType](https://shhhtype.com)** — voice-to-text for macOS. Speak it, publish it.
+- 🎬 **[viddypod](https://github.com/marcus-wade/viddypod)** — building in the open (TypeScript)
+- 🏢 **[Genesis 1 Technologies](https://genesis1.tech)** — tools for developers and creators
+- 🎧 **[DJ Marcus Wade](https://open.spotify.com/artist/3c2MkWrkdgEzUbYNUARu3o)** — inspirational house since the mid-90s
 
-## 🚀 Building in the Open
+## Current Projects
 
-Public repos live here — more opening up as it ships.
+### 🏢 Genesis 1 Technologies
 
-- 🎬 **[viddypod](https://github.com/marcus-wade/viddypod)** — TypeScript
+- 🎙️ **[ShhhType](https://shhhtype.com)** — Voice-to-text for macOS. Global hotkey captures speech and injects transcribed text into any focused app. Local Whisper or cloud transcription.
+- 🎬 **[viddypod](https://github.com/marcus-wade/viddypod)** — Public and building in the open (TypeScript).
 
-## 🎧 DJ Marcus Wade
+### 🎧 DJ Marcus Wade
 
-Spinning inspirational house music since the mid-90s. Opened **Club Salt Shaker** (NC, 1998),
-created **Cross Culture Radio** in 2001 — now **Gospel Meets Dance Radio**, on air in Amsterdam
-(CLFrequency) and across Africa and Colombia — and launched **Salt Shaker Records** in 2010.
-Signed to PTGW Music / IndiePlant Gospel (Amsterdam) in 2018 and brought gospel and inspirational
-dance music to Europe at ESNS, DanceFair, and ADE 2019.
+- 📻 **Gospel Meets Dance Radio** — On air in Amsterdam (CLFrequency) and across Africa and Colombia.
+- 💿 **Salt Shaker Records** — Creation and promotion of quality house music and events since 2010.
 
-- 🎧 [Spotify](https://open.spotify.com/artist/3c2MkWrkdgEzUbYNUARu3o)
-- 🍎 [Apple Music](https://music.apple.com/us/artist/dj-marcus-wade/1201909652)
-- 📸 [Instagram](https://www.instagram.com/marcuswademusic)
+## What I'm Doing
+
+- 🚀 Building software that helps developers and creators ship faster
+- 🎶 Producing and performing inspirational dance music across the US and Europe
+- 🌍 Growing the DJ Marcus Wade brand internationally
+- ❤️ Reaching an at-risk generation through inspirational dance music
+
+## Connect
+
+- 🏢 [genesis1.tech](https://genesis1.tech)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcus-m-wade)
+- 🐦 [X](https://x.com/brogrammermw)
+- 🎧 [Spotify](https://open.spotify.com/artist/3c2MkWrkdgEzUbYNUARu3o) · 🍎 [Apple Music](https://music.apple.com/us/artist/dj-marcus-wade/1201909652) · 📸 [Instagram](https://www.instagram.com/marcuswademusic)
+
+## Recognition
+
+- 🇪🇺 Debuted in Europe at **ESNS 2019**, **DanceFair 2019**, and **ADE 2019**
+- 🤝 Signed to **PTGW Music / IndiePlant Gospel** (Amsterdam), 2018
+- 🏛️ Founded **Club Salt Shaker** (NC, 1998) — the first club built purely around inspirational house
+- 📡 Created **Cross Culture Radio** (2001), now rebranded **Gospel Meets Dance Radio**
+
+## Philosophy
+
+> "Ship beats perfect." Build tools to solve real problems, then share them with the world.
+
+## Random Facts
+
+- 🎚️ Spinning house music since the mid-90s
+- 🧑‍💻 Builder, CEO, and DJ — software by day, sets by night
+- 🎯 Creed: reach this generation through inspirational dance music
 
 <details>
-<summary>📖 Full bio</summary>
+<summary>📖 Full DJ bio</summary>
 
 <br>
 
@@ -47,12 +67,6 @@ The future is bright for DJ Marcus as he continues to expand his musical brand i
 
 </details>
 
-## 🤝 Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcus-m-wade)
-- 🐦 [X](https://x.com/brogrammermw)
-- 🌐 [genesis1.tech](https://genesis1.tech)
-
 ---
 
-<sub>Ship beats perfect.</sub>
+<sub>⚡ Software by day, sets by night.</sub>
