@@ -26,6 +26,10 @@ Public repos live here — more opening up as it ships.
 
 International DJ &amp; producer. Software by day, sets by night.
 
+- 🎧 [Spotify](https://open.spotify.com/artist/3c2MkWrkdgEzUbYNUARu3o)
+- 🍎 [Apple Music](https://music.apple.com/us/artist/dj-marcus-wade/1201909652)
+- 📸 [Instagram](https://www.instagram.com/marcuswademusic)
+
 ## 🤝 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcus-m-wade)
